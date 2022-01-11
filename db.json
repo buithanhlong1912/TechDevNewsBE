@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "writer01@gmail.com",
+      "password": "123@123",
+      "type": "writer",
+      "info": {
+        "name": "writer01",
+        "age": 12,
+        "about": "With a local installation, nodemon will not be available in your system path or you can't use it directly from the command line",
+        "avt": "https://icons.iconarchive.com/icons/icons8/ios7/512/Users-User-Male-icon.png",
+        "gender": "male"
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "writer01@gmail.com",
+      "description": "123@123",
+      "content": "writer",
+      "cover": "https://icons.iconarchive.com/icons/icons8/ios7/512/Users-User-Male-icon.png",
+      "authorId": 1,
+      "categoryId": 1,
+      "dateCreate": "Mon Jan 10 2022 15:49:04 GMT+0700 (Indochina Time)",
+      "like": 0,
+      "disLike": 0,
+      "view": 0
+    },
+    {
+      "title": "dsadgdfgdfgdfg",
+      "description": "123@123",
+      "content": "writer",
+      "cover": "https://icons.iconarchive.com/icons/icons8/ios7/512/Users-User-Male-icon.png",
+      "authorId": 1,
+      "categoryId": 1,
+      "dateCreate": "Mon Jan 10 2022 15:49:04 GMT+0700 (Indochina Time)",
+      "like": 0,
+      "disLike": 0,
+      "view": 0,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Lập trình"
+    },
+    {
+      "id": 2,
+      "title": "UI/UX"
+    },
+    {
+      "id": 3,
+      "title": "Block Chain"
+    },
+    {
+      "id": 4,
+      "title": "Mobile"
+    },
+    {
+      "id": 5,
+      "title": "Internet"
+    }
+  ]
+}
