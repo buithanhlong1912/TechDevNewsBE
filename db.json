@@ -6,11 +6,24 @@
       "password": "123@123",
       "type": "writer",
       "info": {
-        "name": "ád",
+        "name": "hack0r",
         "age": 8,
         "about": "Cristiano Ronaldo dos Santos Aveiro GOIH ComM là một cầu thủ bóng đá người Bồ Đào Nha hiện đang thi đấu ở vị trí tiền đạo cho câu lạc bộ Manchester United và là đội trưởng của đội tuyển bóng đá quốc gia Bồ Đào Nhaa",
         "avt": "https://scontent.fhan3-3.fna.fbcdn.net/v/t1.6435-9/78844113_1318963468276068_1897961806337409024_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P3vW-HjPl08AX-v_I73&_nc_ht=scontent.fhan3-3.fna&oh=00_AT9uIYVm3yn3ISVHyV_1u2Jx5WgMnIhHh4NDIGVfn3S5RQ&oe=62022387",
         "gender": "male"
+      }
+    },
+    {
+      "id": 2,
+      "userName": "writer02@gmail.com",
+      "password": "123@123",
+      "type": "writer",
+      "info": {
+        "about": "Cristiano Ronaldo dos Santos Aveiro GOIH ComM là một cầu thủ bóng đá người Bồ Đào Nha hiện đang thi đấu ở vị trí tiền đạo cho câu lạc bộ Manchester United và là đội trưởng của đội tuyển bóng đá quốc gia Bồ Đào Nhaa",
+        "name": "Thầy Ông Nội",
+        "avt": "https://sohanews.sohacdn.com/thumb_w/660/160588918557773824/2022/1/8/photo1641650670003-1641650670131949951231.jpeg",
+        "gender": "female",
+        "age": 18
       }
     }
   ],
@@ -34,6 +47,26 @@
         10
       ],
       "id": 2
+    },
+    {
+      "email": "nam4111999@gmail.com",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GgIgK6UlbHqNW-McUuNfl0CdZ1epx4fmSQM_UH4=s96-c",
+      "name": "Nam Nguyễn Tiến",
+      "articlesLiked": [
+        21,
+        20,
+        4
+      ],
+      "id": 3
+    },
+    {
+      "email": "namnthe130516@fpt.edu.vn",
+      "imageUrl": "https://lh3.googleusercontent.com/a/AATXAJzRepWYyIqhlJZzzrN2ytkmmleWPJRvFmnKkGU=s96-c",
+      "name": "Nguyen Tien Nam (K13_HN)",
+      "articlesLiked": [
+        20
+      ],
+      "id": 4
     }
   ],
   "articles": [
@@ -48,11 +81,7 @@
       "dateCreate": "2022-01-08T15:15:43.004Z",
       "like": 50,
       "disLike": 0,
-<<<<<<< Updated upstream
       "view": 11
-=======
-      "view": 12
->>>>>>> Stashed changes
     },
     {
       "title": "Hộp mực in Canon trở thành 'nạn nhân' của tình trạng thiếu chip",
@@ -64,11 +93,7 @@
       "dateCreate": "2022-01-09T15:15:43.004Z",
       "like": 7,
       "disLike": 0,
-<<<<<<< Updated upstream
       "view": 109,
-=======
-      "view": 103,
->>>>>>> Stashed changes
       "id": 2
     },
     {
@@ -81,11 +106,7 @@
       "dateCreate": "2022-01-14T15:15:43.004Z",
       "like": 2,
       "disLike": 0,
-<<<<<<< Updated upstream
       "view": 102,
-=======
-      "view": 125,
->>>>>>> Stashed changes
       "id": 3
     },
     {
@@ -95,17 +116,10 @@
       "cover": "https://image.thanhnien.vn/150x100/Uploaded/2022/wsxrxqeiod/2022_01_07/alibab-9887.jpg",
       "authorId": 1,
       "categoryId": 2,
-<<<<<<< Updated upstream
       "dateCreate": "2022-01-09T15:15:43.004Z",
-      "like": 60,
+      "like": 61,
       "disLike": 0,
-      "view": 66,
-=======
-      "dateCreate": "Mon Jan 14 2022 15:49:04 GMT+0700 (Indochina Time)",
-      "like": 60,
-      "disLike": 0,
-      "view": 68,
->>>>>>> Stashed changes
+      "view": 69,
       "id": 4
     },
     {
@@ -118,11 +132,7 @@
       "dateCreate": "2022-01-10T15:15:43.004Z",
       "like": 3,
       "disLike": 0,
-<<<<<<< Updated upstream
       "view": 21,
-=======
-      "view": 23,
->>>>>>> Stashed changes
       "id": 5
     },
     {
@@ -132,17 +142,10 @@
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/11/edit-firn4j3wqaaf6a3-16418732364181056880085.jpeg",
       "authorId": 1,
       "categoryId": 2,
-<<<<<<< Updated upstream
       "dateCreate": "2022-01-11T15:15:43.004Z",
       "like": 15,
       "disLike": 0,
-      "view": 32,
-=======
-      "dateCreate": "Mon Jan 16 2022 15:49:04 GMT+0700 (Indochina Time)",
-      "like": 16,
-      "disLike": 0,
-      "view": 31,
->>>>>>> Stashed changes
+      "view": 33,
       "id": 6
     },
     {
@@ -168,11 +171,7 @@
       "dateCreate": "2022-01-13T15:15:43.004Z",
       "like": 2,
       "disLike": 0,
-<<<<<<< Updated upstream
       "view": 15,
-=======
-      "view": 5,
->>>>>>> Stashed changes
       "id": 8
     },
     {
@@ -185,11 +184,7 @@
       "dateCreate": "2022-01-14T15:15:43.004Z",
       "like": 18,
       "disLike": 0,
-<<<<<<< Updated upstream
-      "view": 154,
-=======
-      "view": 94,
->>>>>>> Stashed changes
+      "view": 155,
       "id": 9
     },
     {
@@ -199,23 +194,17 @@
       "cover": "https://image.thanhnien.vn/150x100/Uploaded/2022/xdrkxrvekx/2022_01_05/2638-3660.jpg",
       "authorId": 1,
       "categoryId": 2,
-<<<<<<< Updated upstream
       "dateCreate": "2022-01-14T15:15:43.004Z",
       "like": 33,
-=======
-      "dateCreate": "Mon Jan 20 2022 15:49:04 GMT+0700 (Indochina Time)",
-      "like": 76,
->>>>>>> Stashed changes
       "disLike": 0,
       "view": 56,
       "id": 10
     },
     {
-<<<<<<< Updated upstream
       "title": "Thuê một đàn lợn để ngăn lũ chim tiếp cận sân bay",
       "description": "Những con vật 4 chân bằng một cách thú vị đã tỏ ra hiệu quả trong việc ngăn những con chim bay vào động cơ máy bay, một nỗi lo tai nạn rình rập phổ biến trong ngành hàng không.",
       "cover": "https://genk.mediacdn.vn/thumb_w/660/139269124445442048/2021/11/26/photo-1-1637917297564233144470.jpeg",
-      "categoryId": "5",
+      "categoryId": 5,
       "content": "<p>Ở Amsterdam, thủ đô Hà Lan, những con lợn gần đây đã được sử dụng để hạn chế các loài chim bay gần khu vực sân bay. Và không chỉ lợn, khoảng 20 động vật chuyên được nuôi trong các trang trại đã được sử dụng để đuổi các loài chim lớn trong khu vực xung quanh Sân bay Quốc tế Schiphol ở Amsterdam.</p><p>Dự án thử nghiệm này được tiến hành vào tháng 9 để tìm hiểu xem liệu liệu những con lợn có thể giúp xua đuổi chim khỏi những chiếc máy bay hay không. Từ lâu, các đàn chim đã là mối nguy hiểm cho các sân bay và máy bay vì chúng có thể gây ra thiệt hại đáng kể nếu chúng bị hút vào động cơ máy bay. Chúng cũng có thể làm hỏng lớp vỏ bên ngoài máy bay, gây ra tai nạn và gây hại cho hành khách.</p><p>Những con lợn được cung cấp bởi Buitengewone Varkens, một công ty chăn nuôi nhỏ chuyên chăn nuôi động vật ngoài trời. Sân bay Schiphol đã tiếp cận công ty và hỏi liệu những con lợn có thể đến ăn thức ăn thừa của cây trồng, thứ thu hút ngỗng và các loài chim khác hay không.<br></p><p>\"<em>Lợi ích đầu tiên là lợn giúp làm cho khu vực này bớt hấp dẫn hơn đối với các loài chim bằng cách loại bỏ nguồn thức ăn\"</em>, Stan Gloudemans, chủ sở hữu công ty nói. \"<em>Lợi ích thứ hai thực tế hơn, là những con lợn cũng sẽ cố gắng bắt những con ngỗng đậu thích nghỉ ngơi trên các khu vực trống của sân bay.\"</em></p><p>Tất nhiên, không ai kỳ vọng những con lợn di chuyển đủ nhanh để thực sự bắt được ngỗng, nhưng nỗ lực của chúng có nghĩa là chúng sẽ hoạt động như những con bù nhìn sống và khiến lũ chim sợ hãi, theo ông Gloudemans.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2021/11/26/photo-1-1637917297564233144470.jpeg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2021/11/26/photo-1-1637917297564233144470.jpeg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/thumb_w/660/139269124445442048/2021/11/26/photo-1-1637917297564233144470.jpeg\" alt=\"Thuê một đàn lợn để ngăn lũ chim tiếp cận sân bay, nước đi của chính quyền Hà Lan hứa hẹn mang lại kết quả bất ngờ - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2021/11/26/photo-1-1637917297564233144470.jpeg\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"photo-1-1637917297564233144470.jpeg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><div><br></div><p>Những con lợn sẽ được chăn thả trên một khu đất giữa hai đường băng, nơi gần đây đã được trồng và thu hoạch củ cải đường. Hoạt động của chim trong khu vực có nuôi lợn sẽ được so sánh với lô đất không có lợn.<br></p><p>Nếu bạn chưa biết thì Schiphol là sân bay quốc tế chính của Hà Lan, và là một trong những trung tâm giao thông lớn nhất ở Châu Âu. Đây là sân bay bận rộn thứ ba ở châu Âu, sau London Heathrow và Paris Charles de Gaulle.</p><p>Dự án thử nghiệm kéo dài 6 tuần nói trên đã kết thúc vào tuần đầu tiên của tháng 11, theo báo cáo từ đại diện sân bay Willemeike Koster. Ông Koster nói rằng dự án đã \"cung cấp nhiều thông tin\" và các dữ liệu thu thập được sẽ được kiểm tra trong những tháng tới. Và một quyết định về việc có sử dụng lợn lâu dài hơn dự kiến sẽ được đưa ra ​​vào đầu năm tới.</p><p>Chia sẻ với CNN, ông cũng cho biết vào năm 2020, sân bay đã chứng kiến ​​khoảng 150 cuộc tấn công của những con chim. Các loài chim có xu hướng gây nguy hiểm nghiêm trọng cho máy bay khi bị hút vào động cơ. Sân bay Schiphol cũng đang thực hiện các biện pháp khác để giữ các loài chim tránh xa máy bay. Ví dụ, 20 trạm kiểm soát chim đã được thiết lập để theo dõi hoạt động của chim tại sân bay.</p><p>Các trạm điều khiển này có vai trò giữ cho lũ chim tránh xa khu vực vào mọi thời điểm cả đêm lẫn ngày, bằng cách sử dụng âm thanh đặc biệt và chùm tia laze. Các biện pháp khác cũng được áp dụng, chẳng hạn như sử dụng các loại cỏ đặc biệt để làm cho khu vực trở nên \"trông không hấp dẫn đối với các loài chim\"</p><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T15:15:43.004Z",
@@ -228,7 +217,7 @@
       "title": "Chàng trai 29 tuổi kiếm tiền từ đồng hồ ‘ảo’, có chiếc được bán lại với giá ngang Rolex",
       "description": "Generative Watches của Calderon là bộ sưu tập đồng hồ",
       "cover": "https://genk.mediacdn.vn/139269124445442048/2022/1/15/photo-1-16422116253821837117912-1642218919410-16422189195892029835903.jpg",
-      "categoryId": "5",
+      "categoryId": 5,
       "content": "<p>Jesus Calderon, người sáng tạo ra bộ sưu tập đồng hồ Generative Watches, đang sở hữu những chiếc đồng hồ ảo trị giá hàng nghìn USD. Calderon là một anh chàng rất yêu thích đồng hồ đeo tay, một người đam mê tiền điện tử và là một nhà thiết kế đồ họa chuyển động. Trong những năm gần đây, Calderon đã kết hợp sở thích lẫn kỹ năng của mình để thiết lập nên một thị trường đồng hồ NFT, thứ đang bắt đầu phát triển nhanh chóng. Ở đó, anh chàng 29 tuổi này thiết kế và bán đồng hồ ảo dưới “thương hiệu” Generative Watches.<br></p><p>Gen Watches của Calderon là bộ sưu tập đồng hồ \"ảo\" được thiết kế dưới dạng kỹ thuật số dựa trên những chiếc đồng hồ nổi tiếng mà mọi người biết và yêu thích, như chiếc Rødex Daitona hay Rødex Bitmariner.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/139269124445442048/2022/1/15/photo-1-16422116253821837117912-1642218919410-16422189195892029835903.jpg\" alt=\"Chàng trai 29 tuổi kiếm tiền từ đồng hồ ‘ảo’, có chiếc được bán lại với giá ngang Rolex - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"photo-1-16422116253821837117912-1642218919410-16422189195892029835903.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></figure></div><div><br></div><table><tbody><tr></tr><tr><td><p>Generative Watches của Calderon là bộ sưu tập đồng hồ giả được thiết kế dưới dạng kỹ thuật số dựa trên những chiếc đồng hồ nổi tiếng mà mọi người biết và yêu thích.&nbsp;Ảnh:<span>&nbsp;</span><em>Hodinkee</em>.</p></td></tr></tbody></table><p>Calderon thiết kế các hình ảnh động 3D với sự trợ giúp của một thuật toán và tải thành phẩm dưới dạng JPG hoặc GIF lên cửa hàng của mình, nơi những người đam mê đồng hồ trả tiền rất hậu hĩnh bằng một loại tiền trừu tượng. Ngày nay, một chiếc đồng hồ làm từ các pixel mà bạn lưu trữ trong ổ cứng và khoe trên mạng xã hội có thể có giá cao như chiếc Rolex Submariner.</p><p>Nói về nguồn gốc ý tưởng làm bộ sưu tập Gen Watches, Calderon chia sẻ: “Đầu năm nay, tôi lướt xem các nội dụng về tiền điện tử trên Twitter và thấy tất cả ‘tay chơi’ lớn đều đăng hình đồng hồ và ôtô. Tôi nhớ ra là mình cũng thích đồng hồ và có thể làm hình 3D. Hơn thế nữa là chưa có ai làm đồng hồ NFT cả. Tôi nghĩ mọi người sẽ thích sở hữu một bộ sưu tập đồng hồ 3D tuyệt vời, đặc biệt nếu chúng là bản sao của những sản phẩm thực ở ngoài đời”.</p><p>“Ông chủ” của Gen Watches cho biết bản thân dành khoảng một tháng để viết một thuật toán trong Google Sheets nhằm tạo ra một loạt thuộc tính về màu sắc, chất liệu, đồ họa, kim chỉ… Các thuộc tính này sau đó sẽ được kết hợp ngẫu nhiên với nhau để tạo ra một sản phẩm, tuy nhiên, Calderon vẫn phải xử lý thủ công để đảm bảo các yếu tố phù hợp với nhau.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/139269124445442048/2022/1/15/photo-1-16422116285361803328251-1642218896074-16422188962501277688206.jpg\" alt=\"Chàng trai 29 tuổi kiếm tiền từ đồng hồ ‘ảo’, có chiếc được bán lại với giá ngang Rolex - Ảnh 2.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-index=\"1\" data-file-name=\"photo-1-16422116285361803328251-1642218896074-16422188962501277688206.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></figure></div><div><br></div><p>Các phiên bản của đồng hồ NFT Daitona. Ảnh: Hodinkee.</p><table><tbody><tr></tr><tr><td><p><br></p></td></tr></tbody></table><p>Những chiếc đồng hồ NFT mà Calderon tạo ra thường dựa trên các món đồ mà mọi người nhận ra nhiều nhất, như chiếc Submariner, Daytona, Speedmaster hay Day-Date. Như vậy, bộ sưu tập của anh mới được nhiều người để mắt đến, từ đó giúp cải thiện khả năng giao dịch và thanh khoản.</p><p>Mỗi chiếc đồng hồ “ảo” trong Gen Watches ban đều được Calderon ấn định giá 0,1 ETH, tương đương khoảng 3.00 USD vào thời điểm đó. Đối với chiếc Daitona, giá cao hơn một chút là 0,2 ETH do số lượng ít hơn và trong đời thực, rất khó để tìm được một chiếc Daytona.</p><p>“Tôi bán được 68 chiếc đồng hồ với giá 0,2 ETH và khi đó 1 ETH đổi ra 3.500 USD vào thời điểm đó, nên nó vào khoảng 700 USD mỗi chiếc”, Calderon cho hay.</p><p>Nói về chiếc đồng hồ thành công nhất của mình, Calderon cho biết sau khi bộ sưu tập ra mắt, đã có người mua tới 25 chiếc, bao gồm cả chiếc đồng hồ đó. “Trên thực tế, người này giành được nó qua một chương trình tặng quà. Sau đó, họ bán nó với giá 6,6 ETH, tương đương khoảng 20.000 USD vào thời điểm đó”, Calderon cho hay. Với mức giá này, rõ ràng chiếc đồng hồ ảo của Calderon có giá ngang một số chiếc Rolex thực sự.</p><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T15:51:44.358Z",
@@ -241,7 +230,7 @@
       "title": "Thời tới cản không nổi': Làm TikTok còn kiếm được nhiều tiền hơn cả CEO của những công ty lớn nhất nhì nước Mỹ",
       "description": "Các \"ngôi sao\" của TikTok đang vui mừng vì 1 năm \"bội thu\". Theo thống kê, một số thậm chí còn kiếm được nhiều tiền hơn cả các CEO hàng đầu của Mỹ.",
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/photo1642128023267-16421280234231323616345-1642132697784-16421326982511750186615.jpg",
-      "categoryId": "5",
+      "categoryId": 5,
       "content": "<p>Charli D’Amelio - bắt đầu đăng tải video mình nhảy lên TikTok vào năm 2019, đã mang về 17,5 triệu USD vào năm ngoái, theo Forbes. Gần đây, cô lọt vào top những TikToker có thu nhập cao nhất năm 2021. Với 133 triệu người theo dõi trên nền tảng này, D’Amelio đã kiếm bộn tiền từ đại diện cho hãng quần áo, quảng cáo sản phẩm và các nội dung khác trên TikTok.<br></p><p>Trong khi đó, mức lương trung bình của CEO ở các công ty trong S&amp;P 500 là 13,4 triệu USD vào năm 2020, theo phân tích của WSJ. Các số liệu về lương, thưởng cho CEO bao gồm thưởng cổ phiếu và quyền chọn - thuờng chiếm phần lớn trong thù lao của họ, cùng tiền lương và thưởng hàng năm và một số quyền lợi khác khi về hưu. Cho đến nay, số liệu lương thưởng năm 2021 của các CEO chưa được công bố đầy đủ.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/photo1642128023267-16421280234231323616345-1642132697784-16421326982511750186615.jpg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/photo1642128023267-16421280234231323616345-1642132697784-16421326982511750186615.jpg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/photo1642128023267-16421280234231323616345-1642132697784-16421326982511750186615.jpg\" alt=\"'Thời tới cản không nổi': Làm TikTok còn kiếm được nhiều tiền hơn cả CEO của những công ty lớn nhất nhì nước Mỹ - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/photo1642128023267-16421280234231323616345-1642132697784-16421326982511750186615.jpg\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"photo1642128023267-16421280234231323616345-1642132697784-16421326982511750186615.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><p>Khoản tiền mà D’Amelio kiếm được cao hơn nhiều so với CEO của các công ty niêm yết lớn, như Darren Woods của Exxon Mobil (15,6 triệu USD vào năm 2020), Kevin Johnson của Starbucks (14,7 triệu USD), Ed Bastian của Delta Air Lines (13,1 triệu USD) và Chris Kempczinski của McDonald’s (10,8 triệu USD).</p><p>Dixie D’Amelio - chị gái của Charli, có khoảng 60 triệu người theo dõi trên TikTok. Tuy nhiên, cô vẫn là người có thu nhập cao thứ 2 trên nền tảng này với 10 triệu USD. Con số này ngang ngửa với mức lương của CEO Gary Kelly của Southwest Airlines.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/1642127897732834925099-1642132677363-16421326778451346562449.jpg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/1642127897732834925099-1642132677363-16421326778451346562449.jpg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/1642127897732834925099-1642132677363-16421326778451346562449.jpg\" alt=\"Thời tới cản không nổi: Làm TikTok còn kiếm được nhiều tiền hơn cả CEO của những công ty lớn nhất nhì nước Mỹ - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/1642127897732834925099-1642132677363-16421326778451346562449.jpg\" data-proportion=\"true\" data-align=\"none\" data-index=\"1\" data-file-name=\"1642127897732834925099-1642132677363-16421326778451346562449.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><p>Charli D’Amelio (trái) Dixie D’Amelio.</p><p>Mae Karwowski - CEO và nhà sáng lập công ty quảng cáo influencer, nhận định: \"Họ thực sự đang xây dựng một đế chế kinh doanh.\" Bà lưu ý, nhiều influencer hàng đầu trên TikTok sở hữu các công ty mới, ra mắt thương hiệu và đa dạng hóa nguồn thu nhập của họ.</p><p>Song, đương nhiên, một số CEO của các công ty trong S&amp;P 500 vẫn kiếm được nhiều hơn thế. Robert Kotick - điều hành hãng video game Activision-Blizzard, kiếm gần 155 triệu USD vào năm 2020. Tim Cook của Apple kiếm được gần 99 triệu USD trong năm kết thúc vào ngày 25/9. Các CEO của 1 số công ty nhỏ thậm chí còn có thù lao cao hơn thế.</p><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T15:54:32.341Z",
@@ -251,7 +240,7 @@
       "id": 13
     },
     {
-      "categoryId": "4",
+      "categoryId": 4,
       "title": "Galaxy Tab S8 tiếp tục lộ diện: Nâng cấp chủ yếu tới từ bản Ultra với màn hình \"tai thỏ\"",
       "description": "Galaxy Tab S8 có thể sẽ được giới thiệu cùng với Galaxy S22 trong tháng 2.",
       "cover": "https://genk.mediacdn.vn/139269124445442048/2022/1/15/gsmarena001-1642256798089643650341.jpg",
@@ -267,7 +256,7 @@
       "title": "iPhone SE 3 xuất hiện với thiết kế giống iPhone XR",
       "description": "Nếu các hình ảnh rò rỉ là xác thực thì đây sẽ là lần đầu tiên dòng iPhone SE được \"nâng cấp\" lên màn hình \"tai thỏ\".",
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/apple-iphone-se-3-2022-front-back-1642153936731-16421539369201370830058.jpg",
-      "categoryId": "4",
+      "categoryId": 4,
       "content": "<p>Mặc dù có doanh số không quá ấn tượng, tuy nhiên có vẻ như Apple vẫn quyết định ra mắt thêm một dòng iPhone SE mới trong năm nay. Các thông tin trước đó tiết lộ iPhone SE mới, hay còn gọi là iPhone SE 3 sẽ có thiết kế không đổi, tức là sẽ vẫn có ngoại hình tương tự iPhone 8, thế nhưng các hình ảnh render CAD mới lại cho thấy điều ngược lại: iPhone SE 3 sẽ có thiết kế giống với iPhone XR hơn.</p><p>Cụ thể, các hình ảnh CAD được chia sẻ bởi leaker Xleaks7 và TenTechReview, tiết lộ chi tiết ngoại hình của iPhone SE 3 ở mặt trước, mặt sau và khung viền. Ở mặt trước, máy sẽ có màn hình \"tai thỏ\" với Face ID thay vì màn hình 16:9 với Touch ID như trước. Có vẻ như màn hình này sẽ là màn hình LCD chứ không phải màn hình OLED như trên các dòng iPhone cao cấp.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-front-back-1642153936731-16421539369201370830058.jpg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-front-back-1642153936731-16421539369201370830058.jpg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/apple-iphone-se-3-2022-front-back-1642153936731-16421539369201370830058.jpg\" alt=\"iPhone SE 3 xuất hiện với thiết kế giống iPhone XR - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-front-back-1642153936731-16421539369201370830058.jpg\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"apple-iphone-se-3-2022-front-back-1642153936731-16421539369201370830058.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><p>Ở mặt sau, iPhone SE 3 lại có thiết kế mặt lưng giống với iPhone 8 hơn là iPhone XR: camera đơn đặt ở góc và bên cạnh là đèn flash LED, kèm theo logo quả Táo cắn dở ở giữa. Cạnh phải là nơi đặt khe cắm sim và nút nguofn, trong khi đó cụm phím âm lượng đặt ở cạnh trái. Hình ảnh CAD cho thấy iPhone SE 3 với tùy chọn màu trắng, tuy nhiên chúng ta có thể mong chờ Apple sẽ tung ra nhiều tùy chọn hơn.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-all-sides-1642153952204-1642153952366846108856.jpg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-all-sides-1642153952204-1642153952366846108856.jpg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/apple-iphone-se-3-2022-all-sides-1642153952204-1642153952366846108856.jpg\" alt=\"iPhone SE 3 xuất hiện với thiết kế giống iPhone XR - Ảnh 2.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-all-sides-1642153952204-1642153952366846108856.jpg\" data-proportion=\"true\" data-align=\"none\" data-index=\"1\" data-file-name=\"apple-iphone-se-3-2022-all-sides-1642153952204-1642153952366846108856.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-bottom-1-1642153978227-16421539784061620522493.jpg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-bottom-1-1642153978227-16421539784061620522493.jpg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/apple-iphone-se-3-2022-bottom-1-1642153978227-16421539784061620522493.jpg\" alt=\"iPhone SE 3 xuất hiện với thiết kế giống iPhone XR - Ảnh 3.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2022/1/14/apple-iphone-se-3-2022-bottom-1-1642153978227-16421539784061620522493.jpg\" data-proportion=\"true\" data-align=\"none\" data-index=\"2\" data-file-name=\"apple-iphone-se-3-2022-bottom-1-1642153978227-16421539784061620522493.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T15:58:59.234Z",
@@ -278,21 +267,21 @@
     },
     {
       "title": "OPPO Pad chuẩn bị ra mắt với chip Snapdragon 870, sẽ có giá hợp lý?",
-      "description": "Bán hàng kỳ lạ như Sony: Điện thoại ra mắt tháng 4 năm trước, tháng 1 năm sau mới mở bán",
+      "description": "Bán hàng kỳ lạ như Sony: Điện thoại ra mắt tháng 4 năm trước, tháng 1 năm sau mới mở bán siêu đẹp",
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/13/sonys-cursed-strategy-sees-it-finally-ship-a-phone-it-launched-last-april-1536x806-16420823867551391204657.jpg",
-      "content": "<p>OPPO sắp tới đây sẽ giới thiệu dòng máy tính bảng đầu tiên của mình mang tên OPPO Pad. Hiệu năng của OPPO Pad mới đây cũng đã được tiết lộ với con chip Snapdragon 870, một con chip thuộc phân khúc cận cao cấp có hiệu năng rất mạnh.</p><p>Cụ thể, dữ liệu từ Geekbench cho thấy OPPO Pad sẽ có tên mã OPD2101, trang bị con chip Snapdragon 870 của Qualcomm, cho hiệu năng đơn nhân đạt 4582 điểm và hiệu năng đa nhân là 12,259 điểm. Máy có RAM 6GB, tuy nhiên có thể sẽ có nhiều biến thể bộ nhớ khác nhau. Ngoài ra, OPPO Pad sẽ chạy trên nền tảng Android 11 với giao diện ColorOS, cho thấy có thể chiếc máy này sẽ ra mắt tại thị trường nội địa Trung Quốc trước tiên. Các thông tin rò rỉ trên Geekbench khớp với thông tin được chứng nhận bởi cơ quan 3C tại Trung Quốc.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/gsmarena001-1642145799221-16421457999951353203158.jpg\" alt=\"OPPO Pad chuẩn bị ra mắt với chip Snapdragon 870, sẽ có giá hợp lý? - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"gsmarena001-1642145799221-16421457999951353203158.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></figure></div><div><br></div><p>Ngoài ra, các tin đồn trước đó cũng tiết lộ OPPO Pad sẽ trang bị màn hình LCD IPS kích thước 11 inch, độ phân giải QHD+ và có tần số quét 120Hz cao cấp. Máy có camera chính 13MP kèm camera phụ 8MP ở mặt sau. Viên pin có dung lượng 8080 mAh, hỗ trợ công nghệ sạc nhanh 33W.</p><p>Thiết kế của OPPO Pad cũng đã được tiết lộ với viền màn hình mỏng đều ở mặt trước, tương tự như iPad Pro. Chưa rõ khung viền có được thiết kế vuông vắn hay không.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/gsmarena002-1642145982055-16421459821901702200411.jpg\" alt=\"OPPO Pad chuẩn bị ra mắt với chip Snapdragon 870, sẽ có giá hợp lý? - Ảnh 2.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-index=\"1\" data-file-name=\"gsmarena002-1642145982055-16421459821901702200411.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></figure></div><div><br></div><p></p><figure type=\"Photo\"><figcaption><p>Đây là thiết kế của OPPO Pad</p></figcaption></figure><p>Với việc xuất hiện trên trang chứng nhận 3C của Trung Quốc thì nhiều khả năng OPPO Pad đang trong giai đoạn chuẩn bị ra mắt. Máy có thể được giới thiệu trong vòng 1 tới 2 tháng nữa.</p><p><br></p>",
+      "content": "<p>OPPO sắp tới đây sẽ giới thiệu dòng máy tính bảng đầu tiên của mình mang tên OPPO Pad. Hiệu năng của OPPO Pad mới đây cũng đã được tiết lộ với con chip Snapdragon 870, một con chip thuộc phân khúc cận cao cấp có hiệu năng rất mạnh.</p><p>Cụ thể, dữ liệu từ Geekbench cho thấy OPPO Pad sẽ có tên mã OPD2101, trang bị con chip Snapdragon 870 của Qualcomm, cho hiệu năng đơn nhân đạt 4582 điểm và hiệu năng đa nhân là 12,259 điểm. Máy có RAM 6GB, tuy nhiên có thể sẽ có nhiều biến thể bộ nhớ khác nhau. Ngoài ra, OPPO Pad sẽ chạy trên nền tảng Android 11 với giao diện ColorOS, cho thấy có thể chiếc máy này sẽ ra mắt tại thị trường nội địa Trung Quốc trước tiên. Các thông tin rò rỉ trên Geekbench khớp với thông tin được chứng nhận bởi cơ quan 3C tại Trung Quốc.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/gsmarena001-1642145799221-16421457999951353203158.jpg\" alt=\"OPPO Pad chuẩn bị ra mắt với chip Snapdragon 870, sẽ có giá hợp lý? - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-file-name=\"gsmarena001-1642145799221-16421457999951353203158.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-percentage=\"auto,auto\" style=\"\" data-index=\"0\" data-rotatex=\"\" data-rotatey=\"\"></figure></div><div><br></div><p>Ngoài ra, các tin đồn trước đó cũng tiết lộ OPPO Pad sẽ trang bị màn hình LCD IPS kích thước 11 inch, độ phân giải QHD+ và có tần số quét 120Hz cao cấp. Máy có camera chính 13MP kèm camera phụ 8MP ở mặt sau. Viên pin có dung lượng 8080 mAh, hỗ trợ công nghệ sạc nhanh 33W.</p><p>Thiết kế của OPPO Pad cũng đã được tiết lộ với viền màn hình mỏng đều ở mặt trước, tương tự như iPad Pro. Chưa rõ khung viền có được thiết kế vuông vắn hay không.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/14/gsmarena002-1642145982055-16421459821901702200411.jpg\" alt=\"OPPO Pad chuẩn bị ra mắt với chip Snapdragon 870, sẽ có giá hợp lý? - Ảnh 2.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-file-name=\"gsmarena002-1642145982055-16421459821901702200411.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-percentage=\"auto,auto\" style=\"\" data-index=\"1\" data-rotatex=\"\" data-rotatey=\"\"></figure></div><div><br></div><p></p><figure type=\"Photo\"><figcaption><p>Đây là thiết kế của OPPO Pad</p></figcaption></figure><p></p><p>Với việc xuất hiện trên trang chứng nhận 3C của Trung Quốc thì nhiều khả năng OPPO Pad đang trong giai đoạn chuẩn bị ra mắt. Máy có thể được giới thiệu trong vòng 1 tới 2 tháng nữa.</p><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T16:00:48.820Z",
-      "categoryId": "1",
+      "categoryId": 1,
       "like": 0,
       "disLike": 0,
-      "view": 0,
+      "view": 1,
       "id": 16
     },
     {
       "title": "Android 13 rò rỉ: Tiết lộ tính năng mới mà người dùng iPhone đã dùng cả chục năm nay",
       "description": "Android càng ngày càng giống iOS, có lẽ thế?",
-      "categoryId": "4",
+      "categoryId": 4,
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/13/untitled-1-copy-16420891564122117999268.jpg",
       "content": "<p>Mặc dù ở thời điểm hiện tại, thị phần smartphone chạy Android 12 vẫn còn quá ít ỏi, tuy nhiên Google đã và đang \"rục rịch\" chuẩn bị giới thiệu phiên bản Android 13 tiếp theo. Trang Android Police mới đây cũng đã chia sẻ một hình ảnh chụp màn hình được cho là của Android 13, tiết lộ một tính năng mới mà người dùng iPhone đã sử dụng cả chục năm nay.</p><p>Cụ thể, tính năng mới được đề cập ở đây trên Android 13 là tính năng quyền đẩy thông báo của ứng dụng (Push Notification). Với tính năng này, mỗi khi người dùng mở một ứng dụng mới, hệ thống sẽ pop-up một thông báo yêu cầu quyền gửi thông báo tới thiết bị. Người dùng có thể lựa chọn có hoặc từ chối. Nếu chọn có, ứng dụng sẽ đẩy thông báo trạng thái mỗi khi cần, còn nếu từ chối, ứng dụng sẽ không được phép đẩy thông báo.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/13/android-13runtimenotificationspermission-fixed-1642088220337-1642088220665222932771.png\" alt=\"Android 13 có tính năng mới mà người dùng iPhone đã dùng cả chục năm nay - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"android-13runtimenotificationspermission-fixed-1642088220337-1642088220665222932771.png\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></figure></div><div><br></div><p>Mặc định khi cài ứng dụng mới, Android sẽ luôn cho phép ứng dụng gửi thông báo. Người dùng chỉ có thể tuỳ chỉnh chặn thông báo trong cài đặt ứng dụng nếu muốn, có thể gây ra một vài bất tiện khi sử dụng, thậm chí nhiều người \"low tech\" thì họ còn chẳng biết nơi để tắt thông báo.</p><p>Nếu bạn đã từng dùng iPhone thì chắc chắn đây là một trong những tính năng vô cùng cơ bản của hệ điều hành iOS từ những phiên bản đầu tiên. Bất kể khi nào một ứng dụng mới được cài đặt, quyền đầu tiên mà ứng dụng hỏi sẽ là quyền gửi thông báo tới thiết bị. Apple đã tích hợp tính năng này cả chục năm nay và giờ đây, Android 13 mới cho phép người dùng làm điều tương tự.</p><p></p><figure type=\"Photo\"><br><!--EndFragment--><br><br></figure><p></p>",
       "authorId": 1,
@@ -311,7 +300,7 @@
       "dateCreate": "2022-01-15T16:36:35.359Z",
       "like": 0,
       "disLike": 0,
-      "categoryId": "1",
+      "categoryId": 1,
       "view": 0,
       "id": 18
     },
@@ -322,50 +311,63 @@
       "content": "<p>Apple cho biết rằng lần đầu tiên trong lịch sử, công ty sẽ hỗ trợ các phương thức thanh toán của bên thứ 3 trong iOS tại Hàn Quốc. Động thái bất ngờ này được cho là sự đầu hàng của Apple, sau khi Hàn Quốc ban hành các điều luật chống độc quyền liên quan đến cửa hàng ứng dụng App Store của Apple và Play Store của Google.<br></p><p>Trước đây, tất cả các giao dịch thanh toán thông qua ứng dụng và cửa hàng hàng ứng dụng của iOS đều do Apple độc quyền, và tính phí hoa hồng 30%. Sự độc quyền và khoản phí hoa hồng này đã làm nổ ra cuộc chiến giữa các nhà phát triển và Apple, đặc biệt là cuộc chiến pháp lý của Epic Games.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/12/4f1fb860-3083-11eb-9cff-f671bf61fd0ccf-1641957743965-1641957744216648215691.jpg\" alt=\"\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"4f1fb860-3083-11eb-9cff-f671bf61fd0ccf-1641957743965-1641957744216648215691.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></figure></div><div><br> - Ảnh 1.\" title=\"Apple đầu hàng tại Hàn Quốc, tuyên bố sẽ hỗ trợ các phương thức thanh toán của bên thứ 3 trong iOS<br><br> - Ảnh 1.\" rel=\"lightbox\" photoid=\"405562969679888384\" data-original=\"https://genk.mediacdn.vn/139269124445442048/2022/1/12/4f1fb860-3083-11eb-9cff-f671bf61fd0ccf-1641957743965-1641957744216648215691.jpg\" type=\"photo\" width=\"\" height=\"\" style=\"margin: 0px auto; padding: 0px; border: 0px; font: inherit; vertical-align: top; max-width: 100%; display: inline-block;\"&gt;</div><p>Sau vụ kiện của Epic Games, một thẩm phán tại Mỹ đã yêu cầu Apple phải cho phép các phương thức thanh toán của bên thứ 3 trong App Store. Tuy nhiên lệnh này sau đó đã bị đình chỉ do kháng cáo của Apple.</p><p>Tại Hàn Quốc, các nhà lập pháp đã cứng rắn hơn rất nhiều và ủng hộ nhà phát triển ứng dụng, từ đó ban hành một điều luật mới áp dụng cho cả App Store và Play Store.</p><p>Mặc dù chấp nhận đầu hàng và tuân thủ theo điều luật mới, Apple cho biết họ vẫn sẽ tính một khoản phí hoa hồng đối với những giao dịch thông qua phương thức thanh toán của bên thứ 3. Tuy nhiên, các nhà phát triển cho rằng việc Apple thu bất kỳ một khoản phí nào là không công bằng. Trong khi đó, Apple và cả Google cho rằng việc tính phí là cần thiết để xây dựng và duy trì các nền tảng của họ.</p><p>Apple hiện vẫn chưa cho biết họ sẽ tính phí hoa hồng bao nhiêu đối với các khoản thanh toán của bên thứ 3 tại thị trường Hàn Quốc. Apple cũng chưa cho biết khi nào thì việc hỗ trợ sẽ chính thức hoặc cách hoạt động của các phương thức thanh toán này sẽ như thế nào. Các chi tiết chính xác hiện vẫn chưa được công bố.</p><p>Trong một tuyên bố báo chí của mình, Apple cho biết:<span>&nbsp;</span><em>“Apple rất tôn trọng luật pháp của Hàn Quốc và muốn hợp tác chặt chẽ với các nhà phát triển ứng dụng tại đất nước này. Chúng tôi sẽ luôn giữ cho App Store là nơi an toàn và đáng tin cậy đối với tất cả người dùng. Chúng tôi mong muốn được tiếp tục hợp tác với nhà lập pháp và các nhà phát triển, để tìm ra giải pháp chung mang đến lợi ích cho người dùng tại Hàn Quốc”.</em></p><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T16:50:07.621Z",
-      "categoryId": "1",
+      "categoryId": 1,
       "like": 0,
       "disLike": 0,
-      "view": 1,
+      "view": 3,
       "id": 19
     },
     {
       "title": "Redmi K50 Pro lộ diện",
       "description": "Redmi K50 Pro sẽ có khung viền vuông như iPhone và có cụm camera chính được thiết kế lại.",
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/11/redmi-k50-pro-case-leak-2-1641915334024-16419153342741176011320.jpeg",
-      "categoryId": "2",
+      "categoryId": 1,
       "content": "<h2>Redmi K50 Pro sẽ có khung viền vuông như iPhone và có cụm camera chính được thiết kế lại.</h2><p>Như mọi năm, thời điểm hiện tại là thời điểm mà Xiaomi đang \"rục rịch\" để chuẩn bị giới thiệu dòng Redmi K50 tiếp theo. Redmi K50 series sẽ bao gồm 4 phiên bản như năm ngoái: Redmi K50, K50 Pro, K50 Pro+ và K50 Gaming, trong đó 2 phiên bản chạy chip Snapdragon và 2 phiên bản chạy chip Dimensity.</p><p>Mới đây, một vài hình ảnh rò rỉ về chiếc Redmi K50 Pro đã xuất hiện trên mạng. Cụ thể, 2 hình ảnh rò rỉ cho thấy chiếc ốp lưng của Redmi K50 Pro được nhiều người dùng Weibo chia sẻ, và nhanh chóng sau đó, một hình ảnh render cũng đã được tạo ra nhằm cho chúng ta cái nhìn cụ thể về chiếc Redmi K50 Pro.</p><p><br></p>",
-      "authorId": 1,
+      "authorId": 2,
       "dateCreate": "2022-01-15T16:54:20.405Z",
-      "like": 0,
+      "like": 2,
       "disLike": 0,
-      "view": 1,
+      "view": 2,
       "id": 20
     },
     {
       "title": "Android 13 sẽ học hỏi một tính năng từ Apple",
       "description": "Android 13 sẽ học hỏi một tính năng từ Apple",
       "cover": "https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/11/screen-shot-2022-01-11-at-183143-1641900878619446184625.jpg",
-      "categoryId": "3",
+      "categoryId": 3,
       "content": "<p>Trong khi Android 12 vẫn đang trong quá trình cập nhật cho nhiều thiết bị, thì Google đã chuẩn bị cho việc phát hành Android 13. Theo thông tin mới nhất, Google đang thêm tính năng “chạm để chuyển” vào Android 13, để chuyển nội dung giải trí giữa các thiết bị.</p><p>Theo bảo demo giao diện mà trang AndroidPolice có được, Google sẽ giới thiệu tính năng “Media TTT” (Media tap-to-transfer) trên Android 13. Tuy chưa có nhiều thông tin, nhưng khả năng cao là tính năng này sẽ cho phép các thiết bị chạy Android 13 truyền nội dung giải trí như âm nhạc, từ điện thoại của họ sang loa thông minh gần đó hoặc thiết bị khác chỉ bằng cách đi đến gần chúng.</p><p>Khi được sử dụng, tính năng này sẽ hiển thị thông báo ở đầu màn hình khi người dùng tiếp cận nguồn phát tương thích, với nút “Undo” xuất hiện để dùng trong trường hợp bạn vô tình đi đến gần loa và không muốn nhạc của mình bắt đầu phát trên đó.</p><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><a href=\"https://genk.mediacdn.vn/139269124445442048/2022/1/11/screen-shot-2022-01-11-at-181844-16419005714151359761119.jpg\" alt=\"https://genk.mediacdn.vn/139269124445442048/2022/1/11/screen-shot-2022-01-11-at-181844-16419005714151359761119.jpg\" data-image-link=\"image\"><img src=\"https://genk.mediacdn.vn/thumb_w/640/139269124445442048/2022/1/11/screen-shot-2022-01-11-at-181844-16419005714151359761119.jpg\" alt=\"Android 13 sẽ học hỏi một tính năng từ Apple - Ảnh 1.\" rel=\"lightbox\" type=\"photo\" data-image-link=\"https://genk.mediacdn.vn/139269124445442048/2022/1/11/screen-shot-2022-01-11-at-181844-16419005714151359761119.jpg\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"screen-shot-2022-01-11-at-181844-16419005714151359761119.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" style=\"\"></a></figure></div><div></div><p>Có rất nhiều điều chưa biết về tính năng này, nhưng nó dường như hoạt động rất giống với tính năng \"Hand off Audio\" mà Apple đã làm gần đây với iPhone và HomePod. Với Apple, tính năng này hoạt động bằng chip U1, sử dụng công nghệ vô tuyến băng tần cực rộng. Công nghệ đó đang bắt đầu xuất hiện trong một số thiết bị Android, bao gồm Pixel 6 Pro và các điện thoại cao cấp mới nhất của Samsung, nhưng vẫn chưa phổ biến.</p><p><br></p>",
       "authorId": 1,
       "dateCreate": "2022-01-15T16:55:21.352Z",
-      "like": 0,
+      "like": 1,
       "disLike": 0,
-      "view": 1,
+      "view": 4,
       "id": 21
-=======
-      "title": "Review Lý do mình chọn mua máy giặt LGbn",
-      "description": "Đây là review về Lý do mình chọn mua máy giặt LG của mình.Mình mua nó với giá Gần 9tr.. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì hãy comment vô bài này nha oki",
-      "cover": "https://photo2.tinhte.vn/data/attachment-files/2022/01/5815581_image.jpg",
-      "content": "<h2><strong>Thông tin chung về Lý do mình chọn mua máy giặt LG:</strong></h2><div><span style=\"margin: 0px; padding: 0px; border: none; box-sizing: border-box; font: inherit; color: inherit; background: initial; appearance: initial;\">Đây là<span>&nbsp;</span><a href=\"https://tinhte.vn/tag/review\">review</a><span>&nbsp;</span>về Lý do mình chọn mua máy giặt LG của mình.Mình mua nó với giá Gần 9tr.. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì hãy comment vô bài này nha.<br><br></span><span style=\"margin: 0px; padding: 0px; border: none; box-sizing: border-box; font: inherit; color: inherit; background: initial; appearance: initial;\"><br>Đầu tiên là tại sao mình lựa chọn máy giặt lồng ngang không mua lồng đứng, đối với mình thì đơn giản lắm vì mình thấy lồng ngang đẹp hơn, sang trọng hơn.<br>Với thị trường điện máy hiện nay xuất hiện rất nhiều hãng sản xuất, đa dạng mẫu mã kiểu dáng và tính năng, những hãng tên tuổi quen thuộc như Toshiba , Sharp, Panasonic, Phillips, Samsung, LG, Beko, Electrolux, Aqua… ôi sao mà nhiều thế không biết lại còn được quảng cáo là tiêu chuẩn Châu Âu này nọ nữa cũng cuốn hút lắm, giá cả cũng cạnh tranh nữa. Nội tới việc lựa chọn hãng sản xuất không cũng phát mệt rồi. Mình thì lại khoái thương hiệu của anh Nhật Bản nữa.<br>Vậy tại sao mình lựa chọn LG mà không phải mấy hãng khác, tất cả là vì một tính năng duy nhất đó chính là động cơ dẫn động trực tiếp của nó. Cái động cơ dẫn động trực tiếp nó rất cuốn hút mình và mình nghĩ nó cũng sẽ hoạt động êm hơn so với những cái dẫn động qua dây coroa.<br>Hơn nữa mẫu mã của nó cũng rất đẹp nhìn rất sang, giá cả cũng tương đối ổn.<br><br></span></div><p>QUẢNG CÁO</p><h2><strong>Những thứ mình thích</strong></h2><h2><strong>Những thứ mình không thích</strong></h2><h2><strong>Nên mua hay không?</strong></h2><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img alt=\"image.jpg\" src=\"https://photo2.tinhte.vn/data/attachment-files/2022/01/5815674_image.jpg\" data-proportion=\"true\" data-align=\"none\" data-file-name=\"5815674_image.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-percentage=\"auto,auto\" origin-size=\"1199,568\" style=\"\" data-index=\"0\" data-rotatex=\"\" data-rotatey=\"\"></figure></div><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img alt=\"image.jpg\" src=\"https://photo2.tinhte.vn/data/attachment-files/2022/01/5815675_image.jpg\" data-proportion=\"true\" data-align=\"none\" data-file-name=\"5815675_image.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-percentage=\"auto,auto\" origin-size=\"900,1200\" style=\"\" data-index=\"1\" data-rotatex=\"\" data-rotatey=\"\"></figure></div><div><br><span style=\"margin: 0px; padding: 0px; border: none; box-sizing: border-box; font: inherit; color: inherit; background: initial; appearance: initial;\"><br>Bảng điều khiển đơn giản bắt mắt với núm xoay và led trắng kế bên là màn hiện thị thông tin như thời gian giặt, lựa chọn giặt nước nóng hay lạnh số vòng tua vắt vv.<br><br></span><span style=\"margin: 0px; padding: 0px; border: none; box-sizing: border-box; font: inherit; color: inherit; background: initial; appearance: initial;\"><br>Lồng giặt thép không rỉ sáng bóng nhìn rất đã.<br><br><br></span><span style=\"margin: 0px; padding: 0px; border: none; box-sizing: border-box; font: inherit; color: inherit; background: initial; appearance: initial;\"><br>Những gì mình thích như trên đã nói động cơ dẫn động trực tiếp và nhìn nó đẹp vậy thôi. Khi mình mua máy giặt thì mình cũng chả mấy để ý đến nó có bao nhiêu chu trình giặt vì cho dù nó có nhiều đến đâu thì mình cũng chỉ dùng 3 hay 4 chế độ thông dụng là cùng mấy cái khác chả xài tới và chính bạn tư vấn bán hàng cũng nói với mình như vậy. Động cơ bảo hành 10 năm hihi nghe đã ghê đúng không ae nhưng thực tế động cơ rất khó hư, chủ yếu là mấy cái lặt vặt hư thôi, đặc biệt là cái mainboard “ cái này đâu chịu bảo hành 10 năm”.<br><br></span><span style=\"margin: 0px; padding: 0px; border: none; box-sizing: border-box; font: inherit; color: inherit; background: initial; appearance: initial;\"><br>Dạo trước cũng có nhiều bạn đăng nhờ tư vấn chọn mua, có bạn cmt nói máy giặt LG nó kêu to như máy chà gạo. Vấn đề này mình đôi khi cũng bị nhưng không đến mức máy nhảy tưng tưng hay đến mức khó chịu, trong quá trình giặt mình nhận định máy giặt chạy rất êm, trong lúc vắt thì đôi lúc mình thấy nó êm đôi lúc mình thấy nó to “ nên mình nhận định là do lượng quần áo mình bỏ vào và tuỳ vào chất liệu vải”. Với lại mình cũng vắt mức 800 thôi chưa thử ở mức tối đa. Còn những ai bị thì mình nghĩ nên kiểm tra nền gạch và cân lại máy cho ngay ngắn, thử để đồ giặt ít đi một chút và xem lại không gian mình đặt máy “ không gian nhỏ hay kín điều làm cho nó kêu to hơn”<br><br></span></div><p><br></p>",
-      "authorId": 1,
-      "dateCreate": "2022-01-13T02:16:31.562Z",
+    },
+    {
+      "title": "CEO Google bị tố ký giao dịch quảng cáo bất hợp pháp với FaceBOOK",
+      "description": "Sundar Pichai, Giám đốc điều hành Google và công ty mẹ Alphabet, đã tự chấp thuận điều mà các tiểu bang cho rằng đó là thỏa thuận bất hợp pháp với Facebook, nhằm thao túng thị trường quảng cáo kỹ thuật số.",
+      "cover": "https://image.thanhnien.vn/w2048/Uploaded/2022/lxwpcqjwp/2022_01_16/tno-ceo-google-ky-giao-dich-quang-cao-bat-hop-phap-voi-fb-8018.jpg",
+      "content": "<p>Theo Bloomberg, chi tiết về việc ông<span>&nbsp;</span><a href=\"https://thanhnien.vn/google-bi-cao-buoc-bieu-apple-50-ti-usd-de-khong-phat-trien-cong-cu-tim-kiem-post1418837.html\">Pichai</a><span>&nbsp;</span>bị cáo buộc ký vào giao dịch được tiết lộ hôm 14.1 trong một đơn khiếu nại chống độc quyền nhằm chống lại Google, từ một liên minh các tiểu bang do Bộ trưởng Tư pháp Texas Ken Paxton đứng đầu. Vụ kiện được đệ trình lần đầu tiên vào tháng 12.2020, cáo buộc Google lạm dụng quyền lực của mình đối với hệ sinh thái kỹ thuật số rộng lớn, nơi các quảng cáo trực tuyến được mua và bán.</p><table><tbody><tr><td><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://image.thanhnien.vn/w2048/Uploaded/2022/lxwpcqjwp/2022_01_16/tno-ceo-google-ky-giao-dich-quang-cao-bat-hop-phap-voi-fb-8018.jpg\" alt=\"CEO Google bị tố ký giao dịch quảng cáo bất hợp pháp với Facebook  - ảnh 1\" data-proportion=\"true\" data-align=\"none\" data-file-name=\"tno-ceo-google-ky-giao-dich-quang-cao-bat-hop-phap-voi-fb-8018.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\",\" data-rotate=\"\" data-percentage=\"auto,auto\" origin-size=\"800,533\" style=\"\" data-index=\"0\" data-rotatex=\"\" data-rotatey=\"\"></figure></div><div><br></div></td></tr><tr><td><p>Giám đốc điều hành Google và công ty mẹ Alphabet Sundar Pichai</p><div><p>BLOOMBERG</p></div></td></tr></tbody></table><p>Nội dung trung tâm của đơn khiếu nại là thỏa thuận năm 2018 giữa Google và Facebook, trong đó Google có tên mã (code-named) là Jedi Blue. Theo các tiểu bang, thỏa thuận này nhằm “giết chết” một công cụ quảng cáo được Facebook hỗ trợ đang trở nên phổ biến với các nhà xuất bản.</p><p>Theo cáo buộc của các tiểu bang, Google cho rằng vai trò của Facebook là mối đe dọa cạnh tranh đối với hoạt động<span>&nbsp;</span><a href=\"https://thanhnien.vn/tai-chinh-kinh-doanh/\" target=\"_blank\" rel=\"noopener noreferrer\">kinh doanh</a><span>&nbsp;</span>quảng cáo béo bở của mình. Và để khiến Facebook từ bỏ công cụ thay thế được các nhà xuất bản ưa chuộng, Google đã đồng ý mang lại lợi thế cho Facebook trong các cuộc đấu giá quảng cáo trực tuyến thông qua công nghệ của mình.</p><p><br></p>",
+      "authorId": 2,
+      "categoryId": 1,
+      "dateCreate": "2022-01-16T15:27:50.047Z",
       "like": 0,
       "disLike": 0,
-      "view": 0,
-      "id": 11,
-      "categoryId": 1
->>>>>>> Stashed changes
+      "view": 2,
+      "id": 22
+    },
+    {
+      "title": "Nhiều người dùng không hứng thú nâng cấp lên iOS 15",
+      "description": "Bản cập nhật iOS 15 của Apple hiện chỉ được cài đặt trên 72% mẫu iPhone trong bốn năm qua, tụt hậu so với tỷ lệ chấp nhận iOS 14 tại cùng thời gian sau khi phát hành.",
+      "cover": "https://image.thanhnien.vn/150x100/Uploaded/2022/xdrkxrvekx/2022_01_15/2715-4552.jpg",
+      "categoryId": 3,
+      "content": "<p>Theo<span>&nbsp;</span><em>AppleInsider</em>, thống kê việc sử dụng bản cập nhật được đăng tải trên trang web của Apple cho thấy 26% thiết bị được giới thiệu kể từ năm 2018 đang chạy iOS 14, trong khi 72% đã cài đặt iOS 15 và 2% sử dụng phiên bản iOS cũ hơn.</p><table><tbody><tr><td><div class=\"se-component se-image-container __se__float- __se__float-none\" contenteditable=\"false\"><figure style=\"margin: 0px;\"><img src=\"https://image.thanhnien.vn/w2048/Uploaded/2022/xdrkxrvekx/2022_01_15/2715-4552.jpg\" alt=\"Nhiều người dùng không hứng thú nâng cấp lên iOS 15 - ảnh 1\" data-proportion=\"true\" data-align=\"none\" data-index=\"0\" data-file-name=\"2715-4552.jpg\" data-file-size=\"0\" data-origin=\",\" data-size=\"492px,328px\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" style=\"width: 492px; height: 328px;\"></figure></div><div><div><ul></ul></div></div></td></tr><tr><td><p>Bộ tính năng trên iOS 15 có thể kìm hãm việc triển khai iOS 15 đến người dùng</p></td></tr></tbody></table><p><br></p>",
+      "authorId": 2,
+      "dateCreate": "2022-01-16T15:37:20.112Z",
+      "like": 0,
+      "disLike": 0,
+      "view": 2,
+      "id": 23
     }
   ],
   "categories": [
